@@ -224,4 +224,3 @@ Confirm that the MSYS2 UCRT64 environment is being used and that the required co
 ## 13. Conclusion
 
 The Mathematical Formula Compiler demonstrates the basic stages of compiler construction and the integration of a C-based compiler with a Python Flask web application. It provides a practical example of lexical analysis, syntax analysis, AST generation, and semantic checking through a browser-based interface.
-
